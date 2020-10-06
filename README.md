@@ -17,7 +17,7 @@ This involes two steps:
 * Named entity recognition for identifying medicine name
 
 
-__Tesseract OCR__:  
+__Tesseract Optical Character Recognition__:  
 * For dateset generation and model training, three methods were used. The first involved using AWS Rekognition, second one involved using font files for synthetic data generation, whereas the third one involved using hocr-tools for generating image line data for Tesseract-OCR training.  
 * Various factors such as base model for model training, Configuration parameters such as Page Segmentation Mode, Thread limit, Preprocessing factors such as Re scaling method and size, different threshold methods for Binarization (Simple and Adaptive threshold) were analyzed for improving performance.  
 
