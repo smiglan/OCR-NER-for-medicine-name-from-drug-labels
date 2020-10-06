@@ -9,7 +9,7 @@ Note: The green bounding box represents the medicine name _"PANTOPRAZOLE"_
 
 Other parameters can also be identified such as in the example shown below using spacy's med7 model. Such as given the input text :_'A patient was prescribed Magnesium hydroxide 400mg/5ml suspension PO of total 30ml  bid for the next 5 days.'_, the results would be:  
 
-<img align="center" width = 800 height = 50 src="images/NER_med7.JPG">
+<img align="center" width = 800 height = 35 src="images/NER_med7.JPG">
 
 
 This involes two steps:  
