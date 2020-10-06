@@ -3,7 +3,7 @@
 In this project, the task of medicine name identification from Drug Label bottles using Optical Character Recognition for image to text conversion and Named entity recognition for identifying the entity of the text from OCR was investigated.  
 This can be seen from the image below.   
 Given an image of a drug bottle, medicine name has to be idenitified and bounding boxes drawn around it.   
-Note: The green bounding box represents the medicine name "PANTOPRAZOLE"
+Note: The green bounding box represents the medicine name _"PANTOPRAZOLE"_
 
 <img align="center" width = 300 src="images/boundingbox.png">
 
